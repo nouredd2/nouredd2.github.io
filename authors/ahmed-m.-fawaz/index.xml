@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed M. Fawaz | Mohammad A. Noureddine</title>
+    <link>/authors/ahmed-m.-fawaz/</link>
+      <atom:link href="/authors/ahmed-m.-fawaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed M. Fawaz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ahmed M. Fawaz</title>
+      <link>/authors/ahmed-m.-fawaz/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Client Puzzles for State Exhaustion Attacks Resilience</title>
+      <link>/publication/nouredd-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerAlert: Integrity Checking Using Power Measurement and a Game-Theoretic Strategy</title>
+      <link>/publication/afawaz-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/afawaz-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

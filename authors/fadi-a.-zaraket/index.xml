@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fadi A. Zaraket | Mohammad A. Noureddine</title>
+    <link>/authors/fadi-a.-zaraket/</link>
+      <atom:link href="/authors/fadi-a.-zaraket/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fadi A. Zaraket</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fadi A. Zaraket</title>
+      <link>/authors/fadi-a.-zaraket/</link>
+    </image>
+    
+    <item>
+      <title>From high-level modeling toward efficient and trustworthy circuits</title>
+      <link>/publication/nouredd-2017-3/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-2017-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Checking Software with First Order Logic Specifications Using AIG Solvers</title>
+      <link>/publication/nouredd-2016/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduction and Abstraction Techniques for BIP</title>
+      <link>/publication/noureddine-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/noureddine-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable Parallel Programs using architecture-aware libraries</title>
+      <link>/publication/zaraket-2012-portable/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/zaraket-2012-portable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

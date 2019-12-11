@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wajih Ul Hassan | Mohammad A. Noureddine</title>
+    <link>/authors/wajih-ul-hassan/</link>
+      <atom:link href="/authors/wajih-ul-hassan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wajih Ul Hassan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Wajih Ul Hassan</title>
+      <link>/authors/wajih-ul-hassan/</link>
+    </image>
+    
+    <item>
+      <title>High-Fidelity Attack Investigation with Universal Provenance</title>
+      <link>/publication/hassan-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hassan-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

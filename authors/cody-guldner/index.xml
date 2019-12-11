@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cody Guldner | Mohammad A. Noureddine</title>
+    <link>/authors/cody-guldner/</link>
+      <atom:link href="/authors/cody-guldner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cody Guldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cody Guldner</title>
+      <link>/authors/cody-guldner/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Client Puzzles for State Exhaustion Attacks Resilience</title>
+      <link>/publication/nouredd-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
