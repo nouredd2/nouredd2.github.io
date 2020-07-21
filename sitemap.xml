@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/pubali-datta/</loc>
     <lastmod>2019-12-11T15:37:15-06:00</lastmod>
   </url>
@@ -209,6 +204,11 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
   </url>
   
   <url>
