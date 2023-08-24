@@ -5,15 +5,31 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/media/icon_hub30472fd67f284fa4697c58f09b4eeac_39055_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
     
     <item>
-      <title>High-Fidelity Attack Investigation with Universal Provenance</title>
+      <title>Transparent Interpretation and Integration of Layered Software Architecture Even Streams</title>
+      <link>/publication/omegapatent/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/omegapatent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks</title>
+      <link>/publication/yagemann-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/yagemann-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis</title>
       <link>/publication/hassan-2019/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/hassan-2019/</guid>

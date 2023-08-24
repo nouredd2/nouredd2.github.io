@@ -1,229 +1,157 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/adam-bates/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-20T23:06:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hassan-2019/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mohammad-a.-noureddine/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pubali-datta/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>/talk/example-talk/</loc>
+    <lastmod>2020-12-28T23:35:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/8/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/wajih-ul-hassan/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ahmed-m.-fawaz/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/amanda-hsu/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/cody-guldner/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/omegapatent/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/yagemann-2021/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/category/demo/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-01-23T19:11:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/hassan-2019/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/nouredd-19/</loc>
     <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sameer-vijay/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/tamer-basar/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/william-h.-sanders/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/slides/</loc>
+    <lastmod>2020-12-11T01:40:31+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/slides/example/</loc>
+    <lastmod>2020-12-11T01:40:31+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/afawaz-18/</loc>
     <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ahmed-fawaz/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/boh-17/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/atul-bohara/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/fadi-a.-zaraket/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/nouredd-2017-3/</loc>
     <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mohamad-a.-noureddine/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mohamad-jaber/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ylies-falcone/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/nouredd-2016-3/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/andrew-marturano/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ken-keefe/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/masooda-bashir/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/nouredd-2016-2/</loc>
-    <lastmod>2019-12-11T15:51:25-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/encodinginterpolationmodel-checkingoptimizationradiation-detectorssequential-circuitssoftwareboolean-satisfiability-solvershoare-tripletsoftware-verificationstatic-analysis/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/encodinginterpolationmodel-checkingoptimizationradiation-detectorssequential-circuitssoftwareboolean-satisfiability-solvershoare-tripletsoftware-verificationstatic-analysis/</loc>
     <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/nouredd-2016/</loc>
     <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/6/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2020-12-11T01:40:31+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/example/</loc>
+    <lastmod>2020-12-11T01:40:31+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-11T01:40:31+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/noureddine-2014/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/simon-bliudze/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ameen-jaber/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mohamed-sabra/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/zaraket-2012-portable/</loc>
-    <lastmod>2019-12-11T15:37:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2020-07-20T23:06:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/admin/</loc>
+    <lastmod>2023-08-13T00:27:10-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/post/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-22T20:12:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/publication/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-08-18T21:40:55-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2021-01-23T19:43:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/talk/</loc>
-    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+    <lastmod>2021-05-22T20:12:40-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/teaching/</loc>
+    <lastmod>2023-08-23T22:18:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
-  
 </urlset>

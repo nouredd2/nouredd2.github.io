@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Mohammad A. Noureddine</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub30472fd67f284fa4697c58f09b4eeac_39055_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks</title>
+      <link>/publication/yagemann-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/yagemann-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis</title>
+      <link>/publication/hassan-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hassan-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Client Puzzles for State Exhaustion Attacks Resilience</title>
+      <link>/publication/nouredd-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerAlert: Integrity Checking Using Power Measurement and a Game-Theoretic Strategy</title>
+      <link>/publication/afawaz-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/afawaz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Unsupervised Multi-Detector Approach for Identifying Malicious Lateral Movement</title>
+      <link>/publication/boh-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/boh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for the human user in predictive security models</title>
+      <link>/publication/nouredd-2016-3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-2016-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game-Theoretic Approach to Respond to Attacker Lateral Movement</title>
+      <link>/publication/nouredd-2016-2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nouredd-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portable Parallel Programs using architecture-aware libraries</title>
+      <link>/publication/zaraket-2012-portable/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/zaraket-2012-portable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
